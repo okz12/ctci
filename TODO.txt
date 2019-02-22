@@ -1,4 +1,4 @@
 #TODO Problems:
 
-Chapter 4: Trees
-Chapter 8: DP and Recursive Programming
+Major Qs: 4, 8, 10, 16, 17
+Ch. 10: Merge Sort and Quick Sort(?)
